@@ -1,0 +1,1 @@
+print("vvv    vvv\nvvvvvvvvvv\n  vvvvvv \n   vvv\n    v")
